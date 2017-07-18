@@ -9,6 +9,8 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/classloader" />
+            <option value="$PROJECT_DIR$/reflection" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
